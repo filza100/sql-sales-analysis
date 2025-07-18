@@ -1,8 +1,7 @@
 # sql-sales-analysis
 Sample SQL project analyzing fictional sales data
 
-# 🛒 SQL Sales Analysis Project
-
+# SQL Sales Analysis Project
 This project demonstrates a complete SQL workflow for analyzing customer orders using a mock sales database.
 
 ## 📁 Tables Created
@@ -19,8 +18,7 @@ This project demonstrates a complete SQL workflow for analyzing customer orders 
 - Category-wise revenue analysis
 
 ## 🔧 Tools
-- SQL Server / MySQL / SQLite (compatible syntax)
-- Can be extended into dashboards using Power BI or Excel
+- SQL Server
 
 ## 📎 File Guide
 - `create_tables.sql`: Table structure
